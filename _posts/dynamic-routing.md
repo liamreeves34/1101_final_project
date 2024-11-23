@@ -5,7 +5,6 @@ coverImage: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 date: "2024-11-23T05:35:07.322Z"
 author:
   name: Liam Reeves
-  picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 ---
