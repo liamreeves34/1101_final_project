@@ -5,6 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 date: "11/23/24"
 author:
   name: Liam Reeves
+  picture: 
 ogImage:
   url: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 ---
