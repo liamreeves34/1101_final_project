@@ -1,13 +1,13 @@
 ---
 title: "The Role of Data Science in Modern Industries."
 excerpt: "Data science is at the forefront of the modern technological revolution, transforming industries by enabling data-driven decision-making and innovation. From healthcare to finance, retail to transportation, data science empowers organizations to harness the power of big data and gain valuable insights. In healthcare, data science aids in predicting patient outcomes and personalizing treatments, leading to improved care and cost savings. The finance industry utilizes data science for risk management, fraud detection, and algorithmic trading, significantly enhancing efficiency and security"
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Liam Reeves
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/dynamic-routing/data-science-info-picture.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
