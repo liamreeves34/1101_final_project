@@ -1,13 +1,13 @@
 ---
-title: "Essential Skills for Aspiring Data Scientists"
+title: "Essential Skills for Data Scientists"
 excerpt: "Becoming a successful data scientist requires a diverse skill set that blends technical expertise with analytical thinking and business acumen. Whether you're just starting out or looking to advance your career, mastering these essential skills can set you on the path to success in the field of data science."
-coverImage: "/assets/blog/hello-world/cover-image2.jpg"
+coverImage: "/assets/blog/hello-world/skills-for-DS-imag.jpg"
 date: "2024-11-23T05:35:07.322Z"
 author:
   name: Liam Reeves
   picture: "/assets/blog/authors/second-author-pfp.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover-image2.jpg"
+  url: "/assets/blog/hello-world/skills-for-DS-imag.jpg"
 ---
 
 ## Programming
