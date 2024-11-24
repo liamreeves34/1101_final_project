@@ -1,6 +1,6 @@
 ---
 title: "Emerging Trends in Data Science"
-excerpt: "With the field of data science continuously in development, new trends and technologies crop up now and then, which really alter the face of data analysis, interpretation, and application. Centring on emerging trends will, therefore, be very important for their survival and competitiveness."
+excerpt: "With the field of data science continuously in development, new trends and technologies are constently in development. These new technologies alter the face of data analysis, interpretation, and application. This makes focusing on emerging trends very important for the survival and competitiveness of the datascience field as a whole."
 coverImage: "/assets/blog/preview/emerging-trends-img.jpg"
 date: "2024-11-23T05:35:07.322Z"
 author:
