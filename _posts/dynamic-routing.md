@@ -25,7 +25,7 @@ Using data sciences to drive improvements in logistics, route optimization, and 
 ## Environmental Sustainability
 Data science also plays an important role in environmental sustainability, which helps to monitor climate change and optimize resource utilization, developing renewable solutions. Using environmental data, scientists can understand climate patterns, predict natural disasters, and find ways to reduce their impact. Besides, data-driven insights help to optimize natural resource utilization and enhance the efficiency of renewable energy systems, leading towards a sustainable future.
 
-## Sources (click on the text):
+## Sources (Click Tn The Text):
 
 ### Healthcare
 - [Indeed: 9 Examples of Data Science in Healthcare](https://www.indeed.com/career-advice/career-development/data-science-healthcare)

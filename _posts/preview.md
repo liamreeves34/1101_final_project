@@ -37,7 +37,7 @@ Quantum computing revolutionizes data science by taking computational power to t
 ## Edge Computing
 Edge computing refers to computing the data that is produced by a source rather than from the originator, which depends in some sort of central data center facility. This will reduce latency and bandwidth usage, making it quite suitable for real-time applications and IoT devices. For data scientists, edge computing means building sensitive and effective systems.
 
-## Sources (click the text):
+## Sources (Click Tn The Text):
 - [Coursera: 7 Skills Every Data Scientist Should Have](https://www.coursera.org/articles/data-scientist-skills) 
 - [DataCamp: The Top 15 Data Scientist Skills For 2024](https://www.datacamp.com/blog/top-15-data-scientist-skills) 
 - [Springboard: 16 Must-Have Data Scientist Skills To Start (or Grow) Your Career](https://www.springboard.com/blog/data-science/data-science-skills/) 
