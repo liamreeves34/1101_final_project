@@ -44,8 +44,15 @@ The volume of data is growing continuously, and hence big data technologies such
 There has been an increased collection and analysis of personal data, and, as such, the need to understand data ethics and privacy becomes larger every year. Data scientists should know about ethical considerations to be taken into consideration, such as bias in algorithms, their responsible usage, and observation of regulations: GDPR and CCPA.
 
 ## Sources (Click Tn The Text):
-- [Coursera: 7 Skills Every Data Scientist Should Have](https://www.coursera.org/articles/data-scientist-skills) 
-- [DataCamp: The Top 15 Data Scientist Skills For 2024](https://www.datacamp.com/blog/top-15-data-scientist-skills) 
-- [Springboard: 16 Must-Have Data Scientist Skills To Start (or Grow) Your Career](https://www.springboard.com/blog/data-science/data-science-skills/) - [Simplilearn: Top 20+ Skills for Aspiring Data Scientists in 2025](https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article) 
-- [TechStory: How to Get Started in Data Science: Essential Skills and Qualifications for Aspiring Data Scientists](https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/) 
-- [SiliconIndia: Choosing the Right Path: Data Science Online Courses vs Masters in Data Science](https://www.siliconindia.com/news/general/choosing-the-right-path-data-science-online-courses-vs-masters-in-data-science-nid-232864-cid-1.html)
+### Coursera: 7 Skills Every Data Scientist Should Have
+- [https://www.coursera.org/articles/data-scientist-skills](https://www.coursera.org/articles/data-scientist-skills) 
+### DataCamp: The Top 15 Data Scientist Skills For 2024
+- [https://www.datacamp.com/blog/top-15-data-scientist-skills](https://www.datacamp.com/blog/top-15-data-scientist-skills)
+###  Springboard: 16 Must-Have Data Scientist Skills To Start (or Grow) Your Career
+- [https://www.springboard.com/blog/data-science/data-science-skills/](https://www.springboard.com/blog/data-science/data-science-skills/)
+### Simplilearn: Top 20+ Skills for Aspiring Data Scientists in 2025
+ - [https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article](https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article) 
+ ### TechStory: How to Get Started in Data Science: Essential Skills and Qualifications for Aspiring Data Scientists
+- [https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/](https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/) 
+###  SiliconIndia: Choosing the Right Path: Data Science Online Courses vs Masters in Data Science
+- [https://www.siliconindia.com/news/general/choosing-the-right-path-data-science-online-courses-vs-masters-in-data-science-nid-232864-cid-1.html](https://www.siliconindia.com/news/general/choosing-the-right-path-data-science-online-courses-vs-masters-in-data-science-nid-232864-cid-1.html)
