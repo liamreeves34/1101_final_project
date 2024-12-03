@@ -38,8 +38,14 @@ Quantum computing revolutionizes data science by taking computational power to t
 Edge computing refers to computing the data that is produced by a source rather than from the originator, which depends in some sort of central data center facility. This will reduce latency and bandwidth usage, making it quite suitable for real-time applications and IoT devices. For data scientists, edge computing means building sensitive and effective systems.
 
 ## Sources (Click Tn The Text):
-- [Coursera: 7 Skills Every Data Scientist Should Have](https://www.coursera.org/articles/data-scientist-skills) 
-- [DataCamp: The Top 15 Data Scientist Skills For 2024](https://www.datacamp.com/blog/top-15-data-scientist-skills) 
- [Springboard: 16 Must-Have Data Scientist Skills To Start (or Grow) Your Career](https://www.springboard.com/blog/data-science/data-science-skills/) 
-- [Simplilearn: Top 20+ Skills for Aspiring Data Scientists in 2025](https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article) 
-- [TechStory: How to Get Started in Data Science: Essential Skills and Qualifications for Aspiring Data Scientists](https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/) 
+
+# Coursera: 7 Skills Every Data Scientist Should Have
+- [https://www.coursera.org/articles/data-scientist-skills](https://www.coursera.org/articles/data-scientist-skills) 
+# DataCamp: The Top 15 Data Scientist Skills For 2024
+- [https://www.datacamp.com/blog/top-15-data-scientist-skills](https://www.datacamp.com/blog/top-15-data-scientist-skills) 
+# Springboard: 16 Must-Have Data Scientist Skills To Start (or Grow) Your Career
+ [https://www.springboard.com/blog/data-science/data-science-skills/](https://www.springboard.com/blog/data-science/data-science-skills/) 
+ # Simplilearn: Top 20+ Skills for Aspiring Data Scientists in 2025
+- [https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article](https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article) 
+# TechStory: How to Get Started in Data Science: Essential Skills and Qualifications for Aspiring Data Scientists
+- [https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/](https://techstory.in/how-to-get-started-in-data-science-essential-skills-and-qualifications-for-aspiring-data-scientists/) 
