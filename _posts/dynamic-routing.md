@@ -41,9 +41,7 @@ Data science also plays an important role in environmental sustainability, which
 #### CareerFoundry: What Does a Data Scientist in Finance Actually Do?:
 - [https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/](https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/)
 #### DataCamp: Data Science in Finance:
-- [DataCamp: Data Science in Finance](https://www.datacamp.com/blog/data-science-in-finance)
-
-- [Scaler: Data Science in Finance: A Complete Guide](https://www.scaler.com/blog/data-science-for-finance/)
+- [(https://www.datacamp.com/blog/data-science-in-finance](https://www.datacamp.com/blog/data-science-in-finance)
 
 ### Retail
 
