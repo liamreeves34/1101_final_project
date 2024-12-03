@@ -28,24 +28,41 @@ Data science also plays an important role in environmental sustainability, which
 ## Sources (Click Tn The Text):
 
 ### Healthcare
-- [Indeed: 9 Examples of Data Science in Healthcare](https://www.indeed.com/career-advice/career-development/data-science-healthcare)
-- [DataCamp: Data Science in Healthcare](https://www.datacamp.com/blog/data-science-in-healthcare)
-- [Springer: The Role of Data Science in Healthcare Advancements](https://link.springer.com/article/10.1007/s11845-021-02730-z)
+
+#### Indeed: 9 Examples of Data Science in Healthcare:
+- [https://www.indeed.com/career-advice/career-development/data-science-healthcare](https://www.indeed.com/career-advice/career-development/data-science-healthcare)
+#### DataCamp: Data Science in Healthcare:
+- [https://www.datacamp.com/blog/data-science-in-healthcare](https://www.datacamp.com/blog/data-science-in-healthcare)
+#### Springer: The Role of Data Science in Healthcare Advancements:
+- [https://link.springer.com/article/10.1007/s11845-021-02730-z](https://link.springer.com/article/10.1007/s11845-021-02730-z)
 
 ### Finance
-- [CareerFoundry: What Does a Data Scientist in Finance Actually Do?](https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/)
+
+#### CareerFoundry: What Does a Data Scientist in Finance Actually Do?:
+- [https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/](https://careerfoundry.com/en/blog/data-analytics/data-scientist-in-finance/)
+#### DataCamp: Data Science in Finance:
 - [DataCamp: Data Science in Finance](https://www.datacamp.com/blog/data-science-in-finance)
+
 - [Scaler: Data Science in Finance: A Complete Guide](https://www.scaler.com/blog/data-science-for-finance/)
 
 ### Retail
-- [DATAFOREST: Data Science Use Cases in Retail](https://dataforest.ai/blog/data-science-cases-in-retail-unlocking-growth-through-innovative-analytics)
-- [DataFlair: 11 Use Cases of Data Science in Retail](https://data-flair.training/blogs/data-science-in-retail/)
-- [365 Data Science: How to Become a Data Scientist in Retail](https://365datascience.com/career-advice/career-guides/how-to-become-a-data-scientist-in-retail/)
+
+#### DATAFOREST: Data Science Use Cases in Retail:
+- [https://dataforest.ai/blog/data-science-cases-in-retail-unlocking-growth-through-innovative-analytics)](https://dataforest.ai/blog/data-science-cases-in-retail-unlocking-growth-through-innovative-analytics)
+#### DataFlair: 11 Use Cases of Data Science in Retail:
+- [https://data-flair.training/blogs/data-science-in-retail/](https://data-flair.training/blogs/data-science-in-retail/)
+#### 365 Data Science: How to Become a Data Scientist in Retail:
+- [https://365datascience.com/career-advice/career-guides/how-to-become-a-data-scientist-in-retail/](https://365datascience.com/career-advice/career-guides/how-to-become-a-data-scientist-in-retail/)
 
 ### Transportation
-- [Data Science in Transportation: Applications and Opportunities](https://datarundown.com/data-science-finance/)
-- [Transportation Data Science: Revolutionizing the Industry](https://datarundown.com/data-science-finance/)
+
+#### Data Science in Transportation: Applications and Opportunities:
+- [https://datarundown.com/data-science-finance/](https://datarundown.com/data-science-finance/)
+#### Transportation Data Science: Revolutionizing the Industry:
+- [https://datarundown.com/data-science-finance/](https://datarundown.com/data-science-finance/)
 
 ### Environmental Sustainability
-- [Data Science for Environmental Sustainability: A Comprehensive Guide](https://datarundown.com/data-science-finance/)
-- [Environmental Data Science: Applications and Impact](https://datarundown.com/data-science-finance/)
+#### Data Science for Environmental Sustainability: A Comprehensive Guide
+- [https://datarundown.com/data-science-finance/](https://datarundown.com/data-science-finance/)
+#### Environmental Data Science: Applications and Impact
+- [https://datarundown.com/data-science-finance/](https://datarundown.com/data-science-finance/)
